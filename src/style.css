@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap");
+
 /* CSS Custom Properties Definitions */
 
 :root {
@@ -67,6 +69,7 @@
 *,
 :after,
 :before {
+  font-family: "Noto Sans JP", sans-serif;
   box-sizing: border-box;
 }
 

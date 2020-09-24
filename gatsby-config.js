@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Caleb Hyatt`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Caleb Hyatt`,
+      summary: `who drinks too much coffee and codes a lot.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Caleb Hyatt's primary website.`,
+    siteUrl: `https://calebhyatt.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `coffeewithcaleb`,
     },
   },
   plugins: [
